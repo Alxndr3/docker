@@ -1,2 +1,2 @@
 # docker
-Repositorires for docker files
+Repositories for docker files
